@@ -85,7 +85,7 @@ else:
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
-            'NAME': 'excitedb',
+            'NAME': 'defaultdb',
             'USER': 'doadmin',
             'PASSWORD': 'pkljksofzpmme187',
             'HOST': 'db-postgresql-nyc1-56282-do-user-8008003-0.b.db.ondigitalocean.com',
