@@ -87,7 +87,7 @@ else:
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
             'NAME': 'excitedb',
             'USER': 'excitedb',
-            'PASSWORD': 'MAnager12#@P',
+            'PASSWORD': 'excitedb',
             'HOST': 'localhost',
             'PORT': '',
         }
